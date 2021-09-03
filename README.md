@@ -24,7 +24,6 @@
 + 참고자료
   + 기후기술 분류체계 (https://www.ctis.re.kr/ko/techClass/classification.do?key=1141)
   + 2019년 기후기술 국가연구개발사업 조사분석 보고서(https://www.gtck.re.kr/gtck/gtcPublication.do?mode=view&articleNo=1844&article.offset=30&articleLimit=10)
-
 <br/>
 
 ### 2. 주제
@@ -52,14 +51,11 @@
 
 ## 목차 (Table of Contents)
 
-**개발 단계** - raw_data부터 대회용 데이터까지의 경과
-
 <br/>
 
 **베이스라인** - 참여자들의 제출을 가능케하는 데이콘 베이스라인
 
 [베이스라인](./Baseline)
-
 <br/>
 
 **심화 코드**  
