@@ -5,7 +5,7 @@
 
 - [대회 바로가기](https://www.dacon.io/competitions/official/235744/overview/description)
 
-### **로그 분석을 통한 보안 위험도 예측 AI 경진대회 제작/운영 경과**
+### **자연어 기반 기후기술분류 AI 경진대회 제작/운영 경과**
 
 <br/>
 
