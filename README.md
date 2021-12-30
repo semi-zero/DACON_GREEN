@@ -10,7 +10,7 @@
 <br/>
 
 <p align="center">
-  <img src="main1.png" width="500" height="500" /> 
+  <img src="green.png" width="500" height="500" /> 
 </p>
 
 <br/>
